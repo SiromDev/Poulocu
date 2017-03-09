@@ -51,12 +51,10 @@ public class GameManager {
         int n = 0;
         for (Player pls : Bukkit.getOnlinePlayers()){
             if (pls.getGameMode() == GameMode.ADVENTURE){
-                Bukkit.broadcastMessage("yep");
                 n = n + 1;
             }
         }
         if (n == 1) {
-            Bukkit.broadcastMessage("yop");
             end();
         }
     }
