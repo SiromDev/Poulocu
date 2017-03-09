@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Poulocu:jar">
+    <output-path>$PROJECT_DIR$/../plugins</output-path>
+    <root id="archive" name="Poulocu.jar">
+      <element id="module-output" name="Poulocu" />
+    </root>
+  </artifact>
+</component>

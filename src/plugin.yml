@@ -1,0 +1,5 @@
+main: fr.trygames.poulocu.Poulocu
+name: Poulocu
+version: 0.1
+author: SiromDev
+commands:
